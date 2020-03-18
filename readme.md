@@ -77,4 +77,5 @@ Free resources to distribute to remote workers for educating and testing their h
 
 ## Maintainer / author
 Simo Kohonen [@simokohonen](https://www.twitter.com/simokohonen)
-
+[@silentshot](https://www.twitter.com/silentshot)
+[@ladydemona](https://www.twitter.com/ladydemona)
