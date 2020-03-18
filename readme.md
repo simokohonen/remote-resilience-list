@@ -1,9 +1,10 @@
-# remote-resilience
-List of various resources for ensuring cyber resilience during remote work boom 
+# remote-resilience-list
+
+A list of resources for ensuring cyber resilience during remote work boom. 
 
 ## Who is this for?
 
-With a lot of workforce moving into remote working, this list of security resources is built with the lone IT / Sysadmin / Security Manager in mind who has to adapt to a large amount of workforce accessing company infrastructure remotely. Surprisingly many large companies run with a very lean IT/Security team. 
+This list of security resources is built with the lone IT / Sysadmin / Security Manager in mind, who now has to adapt to a large amount of workforce accessing company infrastructure remotely. Surprisingly many large companies run with a very lean IT/Security team. 
 
 Focus here is on free or freemium resources, products and services. 
 
